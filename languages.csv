@@ -1,0 +1,7 @@
+language,speed,documentation,ease of use,free,machine learning,multi-threading,gui,notes
+C,+++,++,---,+++,?,+,-,Basics should be known.
+C++,+++,++,--,+++,?,+,+,
+Java,++,++,+,+++,---,++,++,Basics should be known.
+Julia,+++,-,++,+++,+,++,-,Almost identical syntax to MATLAB.
+MATLAB,-,++,++,-,+,-,--,Basics should be known.
+Python,-,+++,+++,+++,+++,--,+++,Significant speed-ups through SciPy (NumPy).
