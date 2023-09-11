@@ -15,5 +15,11 @@ JuliaImages: https://juliaimages.org
 
 NumPy: https://numpy.org
 SciPy signal: https://docs.scipy.org/doc/scipy/reference/signal.html
-audioread: https://github.com/beetbox/audioread
+soundfile: https://python-soundfile.readthedocs.io/en/0.11.0/
+python-speech-features: https://python-speech-features.readthedocs.io/en/latest/
+
+Easy install:
+```sh 
+pip install -r speech_packages_python.txt
+```
 
